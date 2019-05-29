@@ -16,8 +16,8 @@
   "XRbit_传感器.Ultrasonic|block": "超声波|Trig引脚 %Trig|Echo引脚 %Echo",
 
   "XRbit_小车.RGB_Car_Program|block": "小车彩灯",
-  "XRbit_小车.motor.leftMotor|block": "左侧电机",
-  "XRbit_小车.motor.rightMotor|block": "右侧电机",
+  "XRbit_小车.enMotor.leftMotor|block": "左侧电机",
+  "XRbit_小车.enMotor.rightMotor|block": "右侧电机",
   "XRbit_小车.irremote_on_pressed|block": "红外遥控器按钮|%IRValue|被按下",
   "XRbit_小车.SetMotor|block": "设置电机|%Motor|速度为 %Speed",
   "XRbit_小车.SetServoAngle|block": "设置舵机|编号 %Num|角度 %Angle",
