@@ -1,0 +1,26 @@
+{
+  "XRbit_传感器.enVoice.Voice|block": "有声音",
+  "XRbit_传感器.enVoice.NoVoice|block": "无声音",
+  "XRbit_传感器.enIR.Get|block": "检测到",
+  "XRbit_传感器.enIR.NoGet|block": "未检测",
+  "XRbit_传感器.enLight.Open|block": "打开",
+  "XRbit_传感器.enLight.Close|block": "关闭",
+  "XRbit_传感器.enBuzzer.NoBeep|block": "不响",
+  "XRbit_传感器.enBuzzer.Beep|block": "响",
+  "XRbit_传感器.irPin.ir_Left|block": "左侧红外(P12)",
+  "XRbit_传感器.irPin.ir_Avoid|block": "中间红外(P13)",
+  "XRbit_传感器.irPin.ir_Right|block": "右侧红外(P14)",
+  "XRbit_传感器.Buzzer|block": "蜂鸣器|引脚 %pin|状态 %value",
+  "XRbit_传感器.IR_Sensor|block": "红外传感器|引脚 %pin|检测到|%value|障碍物",
+  "XRbit_传感器.Car_Ligth|block": "车灯 |引脚 %pin| 状态为|%value|车灯",
+  "XRbit_传感器.Ultrasonic|block": "超声波|Trig引脚 %Trig|Echo引脚 %Echo",
+
+  "XRbit_小车.RGB_Car_Program|block": "小车彩灯",
+  "XRbit_小车.motor.leftMotor|block": "左侧电机",
+  "XRbit_小车.motor.rightMotor|block": "右侧电机",
+  "XRbit_小车.irremote_on_pressed|block": "红外遥控器按钮|%IRValue|被按下",
+  "XRbit_小车.SetMotor|block": "设置电机|%Motor|速度为 %Speed",
+  "XRbit_小车.SetServoAngle|block": "设置舵机|编号 %Num|角度 %Angle",
+  "XRbit_小车.SaveServoAngle|block": "保存当前角度为默认值",
+  "XRbit_小车.ReSetServoAngle|block": "恢复所有角度为默认值"
+}
