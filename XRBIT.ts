@@ -140,9 +140,9 @@ namespace XRbit_小车 {
     const XRBIT_ADDRESS = 0x17
     let xrStrip: neopixel.Strip;
     export enum enMotor {
-        //% blockId="leftMotor" block="左侧电机"
+        //% blockId="leftMotor" block="leftMotor"
         leftMotor = 0x14,
-        //% blockId="rightMotor" block="右侧电机"
+        //% blockId="rightMotor" block="rightMotor"
         rightMotor = 0x15
     }
 
