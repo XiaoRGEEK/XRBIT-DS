@@ -252,7 +252,7 @@ namespace XRbit_小车 {
     export function RGB_Car_Program(): neopixel.Strip {
          
         if (!xrStrip) {
-            xrStrip = neopixel.create(DigitalPin.P16, 4, NeoPixelMode.RGB_RGB);
+            xrStrip = neopixel.create(DigitalPin.P16, 4, NeoPixelMode.RGB);
         }
         return xrStrip;
     }
