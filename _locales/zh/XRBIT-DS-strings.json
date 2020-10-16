@@ -1,4 +1,5 @@
 {
+  "XRbit_传感器.XRbit_Sensor|block": "XRbit_器",
   "XRbit_传感器.enVoice.Voice|block": "有声音",
   "XRbit_传感器.enVoice.NoVoice|block": "无声音",
   "XRbit_传感器.enIR.Get|block": "检测到",
@@ -12,7 +13,7 @@
   "XRbit_传感器.irPin.ir_Right|block": "右侧红外(P14)",
   "XRbit_传感器.Buzzer|block": "蜂鸣器|引脚 %pin|状态 %value",
   "XRbit_传感器.IR_Sensor|block": "红外传感器|引脚 %pin|检测到|%value|障碍物",
-  "XRbit_传感器.Car_Ligth|block": "车灯 |引脚 %pin| 状态为|%value|车灯",
+  "XRbit_传感器.Car_Ligth|block": "车灯 |引脚 %pin| 状态为|%value|",
   "XRbit_传感器.Ultrasonic|block": "超声波|Trig引脚 %Trig|Echo引脚 %Echo",
 
   "XRbit_小车.RGB_Car_Program|block": "小车彩灯",

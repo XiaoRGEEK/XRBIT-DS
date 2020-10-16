@@ -12,6 +12,7 @@
  ****************************************************************************************************************************************/
 
 //% color="#87CEEB" weight=24 icon="\uf1b6"
+//% blockId=XRbit_Sensor block="XRbit_Sensor"
 namespace XRbit_传感器 {
 
     export enum enVoice {
@@ -62,7 +63,7 @@ namespace XRbit_传感器 {
         pins.digitalWritePin(pin, value);
     }
 
-    //% blockId=XRbit_IR_Sensor block="IR_Sensor|pin %pin| |%value|障碍物"
+    //% blockId=XRbit_IR_Sensor block="IR_Sensor|pin %pin| |%value|obstacle"
     //% weight=100
     //% blockGap=10
     //% color="#87CEEB"
@@ -91,7 +92,7 @@ namespace XRbit_传感器 {
         }
     }
 
-    //% blockId=XRbit_Car_Ligth block="Car_Ligth |pin %pin| |%value|车灯"
+    //% blockId=XRbit_Car_Ligth block="Car_Ligth |pin %pin| |%value|"
     //% weight=100
     //% blockGap=10
     //% color="#87CEEB"
