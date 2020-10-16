@@ -4,8 +4,7 @@
     "description": "XRBIT DRIVER BOARD FOR MICROBIT",
     "dependencies": {
         "core": "*",
-        "bluetooth": "*",
-        "neopixel": "https://github.com/991693552/pxt-neopixel.git"
+        "bluetooth": "*"
     },
     "files": [
         "README.md",
