@@ -12,7 +12,6 @@
  ****************************************************************************************************************************************/
 
 //% color="#87CEEB" weight=24 icon="\uf1b6"
-//% blockId=XRbit_Sensor block="XRbit_Sensor"
 namespace XRbit_传感器 {
 
     export enum enVoice {

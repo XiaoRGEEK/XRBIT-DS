@@ -1,5 +1,4 @@
 {
-  "XRbit_传感器.XRbit_Sensor|block": "XRbit_器",
   "XRbit_传感器.enVoice.Voice|block": "有声音",
   "XRbit_传感器.enVoice.NoVoice|block": "无声音",
   "XRbit_传感器.enIR.Get|block": "检测到",
